@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod -R +X .
+=======
+chmod -R a+x .
+>>>>>>> 511320b36ead7e76c44b7af9b34bd9562a38f7d3
